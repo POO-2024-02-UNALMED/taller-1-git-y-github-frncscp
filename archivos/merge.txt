@@ -1,0 +1,1 @@
+Si se le hace commit a la carpeta vacia y luego se hace push sin hacer commit a un archivo dentro de ella, la carpeta seguiria vacia porque git no hace seguimiento a las carpetas sin archivos.
