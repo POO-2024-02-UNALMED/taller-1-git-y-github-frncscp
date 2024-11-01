@@ -1,3 +1,7 @@
 Francisco Cerén
 17 años
 Espero poder consolidar mi conocimiento teórico en programación orientada a objetos para poder usarlo en otros lenguajes (que no sea java)
+
+Si se le hace commit a la carpeta vacia y luego se hace push sin hacer commit a un archivo dentro de ella, la carpeta seguiria vacia porque git no hace seguimiento a las carpetas sin archivos.
+
+Hay que tener cuidado modificando un mismo archivo desde diferentes partes sin sincronizar primero las copias del repositorio, de lo contrario, se intentarán subir diferentes versiones del archivo con el mismo nombre, lo que inevitablemente generará conflictos.
